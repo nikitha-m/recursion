@@ -23,6 +23,6 @@ public:
 
 int main() {
   Solution solution;
-  int val = solution.kthGrammar(30, 434991989);
+  int val = solution.kthGrammar(4, 7);
   cout << val << endl;
 }
